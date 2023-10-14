@@ -1,0 +1,21 @@
+nav {
+    background-color: #6699CC;
+}
+
+ul.nav.nav-pills>li.nav-item>a.nav-link.active {
+    color: white !important;
+    background-color: #BDBDBD !important;
+}
+
+.anchor_ {
+    padding-top: 150px; 
+    margin-top: -150px;
+}
+
+.btn_secondary_ {
+    background-color: #676767;
+}
+
+.btn_primary_ {
+    background-color: #003B6D;
+}
